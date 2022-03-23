@@ -1,7 +1,8 @@
 # ANII-font
 
 Para usar: 
-```
+
+```css
 @font-face {
   font-family: 'Anii Font Bold';
   src: url("https://cdn.jsdelivr.net/gh/Atlas-uy/ANII-font/Anii Font Bold.eot");,
